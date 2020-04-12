@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Auto Register
  * Description:       Automatically registers users using a magic link
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            tmdk
  * Text Domain:       auto-register
  * GitHub Plugin URI: https://github.com/tmdk/auto-register
